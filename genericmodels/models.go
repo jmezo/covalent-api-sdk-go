@@ -3,7 +3,7 @@ package genericmodels
 import (
 	"time"
 
-	"github.com/covalenthq/covalent-api-sdk-go/utils"
+	"github.com/jmezo/covalent-api-sdk-go/utils"
 )
 
 type NftCollectionAttribute struct {

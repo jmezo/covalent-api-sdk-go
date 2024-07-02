@@ -11,7 +11,7 @@ The Covalent SDK is the fastest way to integrate the Covalent Unified API for wo
 ## Getting started
 
 ```
-go get github.com/covalenthq/covalent-api-sdk-go
+go get github.com/jmezo/covalent-api-sdk-go
 ```
 
 ## How to use the Covalent SDK
@@ -23,8 +23,8 @@ package main
 
 import (
     "fmt"
-	"github.com/covalenthq/covalent-api-sdk-go/covalentclient"
-    "github.com/covalenthq/covalent-api-sdk-go/chains"
+	"github.com/jmezo/covalent-api-sdk-go/covalentclient"
+    "github.com/jmezo/covalent-api-sdk-go/chains"
 )
 
 func main() {
@@ -53,10 +53,10 @@ package main
 
 import (
     "fmt"
-	"github.com/covalenthq/covalent-api-sdk-go/covalentclient"
-    "github.com/covalenthq/covalent-api-sdk-go/services"
-    "github.com/covalenthq/covalent-api-sdk-go/quotes"
-    "github.com/covalenthq/covalent-api-sdk-go/chains"
+	"github.com/jmezo/covalent-api-sdk-go/covalentclient"
+    "github.com/jmezo/covalent-api-sdk-go/services"
+    "github.com/jmezo/covalent-api-sdk-go/quotes"
+    "github.com/jmezo/covalent-api-sdk-go/chains"
 )
 
 func main() {
@@ -174,8 +174,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/covalenthq/covalent-api-sdk-go/chains"
-	"github.com/covalenthq/covalent-api-sdk-go/covalentclient"
+	"github.com/jmezo/covalent-api-sdk-go/chains"
+	"github.com/jmezo/covalent-api-sdk-go/covalentclient"
 )
 
 func main() {
@@ -230,9 +230,9 @@ package main
 
 import (
     "fmt"
-	"github.com/covalenthq/covalent-api-sdk-go/covalentclient"
-    "github.com/covalenthq/covalent-api-sdk-go/chains"
-	"github.com/covalenthq/covalent-api-sdk-go/valuefmt"
+	"github.com/jmezo/covalent-api-sdk-go/covalentclient"
+    "github.com/jmezo/covalent-api-sdk-go/chains"
+	"github.com/jmezo/covalent-api-sdk-go/valuefmt"
 )
 
 func main() {
@@ -257,10 +257,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/covalenthq/covalent-api-sdk-go/chains"
-	"github.com/covalenthq/covalent-api-sdk-go/covalentclient"
-	"github.com/covalenthq/covalent-api-sdk-go/quotes"
-	"github.com/covalenthq/covalent-api-sdk-go/valuefmt"
+	"github.com/jmezo/covalent-api-sdk-go/chains"
+	"github.com/jmezo/covalent-api-sdk-go/covalentclient"
+	"github.com/jmezo/covalent-api-sdk-go/quotes"
+	"github.com/jmezo/covalent-api-sdk-go/valuefmt"
 )
 
 func main() {
@@ -303,9 +303,9 @@ package main
 
 import (
 	"fmt"
-	"github.com/covalenthq/covalent-api-sdk-go/chains"
-	"github.com/covalenthq/covalent-api-sdk-go/covalentclient"
-	"github.com/covalenthq/covalent-api-sdk-go/services"
+	"github.com/jmezo/covalent-api-sdk-go/chains"
+	"github.com/jmezo/covalent-api-sdk-go/covalentclient"
+	"github.com/jmezo/covalent-api-sdk-go/services"
 )
 
 func main() {
@@ -345,10 +345,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/covalenthq/covalent-api-sdk-go/chains"
-	"github.com/covalenthq/covalent-api-sdk-go/covalentclient"
-	"github.com/covalenthq/covalent-api-sdk-go/quotes"
-	"github.com/covalenthq/covalent-api-sdk-go/services"
+	"github.com/jmezo/covalent-api-sdk-go/chains"
+	"github.com/jmezo/covalent-api-sdk-go/covalentclient"
+	"github.com/jmezo/covalent-api-sdk-go/quotes"
+	"github.com/jmezo/covalent-api-sdk-go/services"
 )
 
 func main() {

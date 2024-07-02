@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/covalenthq/covalent-api-sdk-go/quotes"
+	"github.com/jmezo/covalent-api-sdk-go/quotes"
 )
 
 const (

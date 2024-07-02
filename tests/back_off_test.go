@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/covalenthq/covalent-api-sdk-go/utils"
+	"github.com/jmezo/covalent-api-sdk-go/utils"
 )
 
 func TestExponentialBackoff_BackOff(t *testing.T) {

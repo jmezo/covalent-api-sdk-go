@@ -3,8 +3,8 @@ package tests
 import (
 	"testing"
 
-	"github.com/covalenthq/covalent-api-sdk-go/chains"
-	"github.com/covalenthq/covalent-api-sdk-go/testutil"
+	"github.com/jmezo/covalent-api-sdk-go/chains"
+	"github.com/jmezo/covalent-api-sdk-go/testutil"
 )
 
 func TestApprovals(t *testing.T) {

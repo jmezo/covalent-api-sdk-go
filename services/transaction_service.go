@@ -9,10 +9,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/covalenthq/covalent-api-sdk-go/chains"
-	"github.com/covalenthq/covalent-api-sdk-go/genericmodels"
-	"github.com/covalenthq/covalent-api-sdk-go/quotes"
-	"github.com/covalenthq/covalent-api-sdk-go/utils"
+	"github.com/jmezo/covalent-api-sdk-go/chains"
+	"github.com/jmezo/covalent-api-sdk-go/genericmodels"
+	"github.com/jmezo/covalent-api-sdk-go/quotes"
+	"github.com/jmezo/covalent-api-sdk-go/utils"
 )
 
 var clientKey string

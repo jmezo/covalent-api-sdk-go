@@ -1,3 +1,3 @@
-module github.com/covalenthq/covalent-api-sdk-go
+module github.com/jmezo/covalent-api-sdk-go
 
 go 1.22

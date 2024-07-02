@@ -1,8 +1,8 @@
 package covalentclient
 
 import (
-	"github.com/covalenthq/covalent-api-sdk-go/services"
-	"github.com/covalenthq/covalent-api-sdk-go/utils"
+	"github.com/jmezo/covalent-api-sdk-go/services"
+	"github.com/jmezo/covalent-api-sdk-go/utils"
 )
 
 type CovalentClientSettings struct {

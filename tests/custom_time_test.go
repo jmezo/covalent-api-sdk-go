@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/covalenthq/covalent-api-sdk-go/utils"
+	"github.com/jmezo/covalent-api-sdk-go/utils"
 )
 
 func TestCustomTime_UnmarshalJSON(t *testing.T) {

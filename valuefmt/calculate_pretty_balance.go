@@ -2,8 +2,8 @@ package valuefmt
 
 import (
 	"fmt"
+	"github.com/jmezo/covalent-api-sdk-go/utils"
 	"math/big"
-	"github.com/covalenthq/covalent-api-sdk-go/utils"
 )
 
 func CalculatePrettyBalance(value interface{}, decimals int, roundOff bool, precision int) string {

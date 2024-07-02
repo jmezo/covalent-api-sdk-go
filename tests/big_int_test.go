@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/covalenthq/covalent-api-sdk-go/utils"
+	"github.com/jmezo/covalent-api-sdk-go/utils"
 )
 
 func TestBigInt_UnmarshalJSON(t *testing.T) {

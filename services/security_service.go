@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/covalenthq/covalent-api-sdk-go/chains"
-	"github.com/covalenthq/covalent-api-sdk-go/utils"
+	"github.com/jmezo/covalent-api-sdk-go/chains"
+	"github.com/jmezo/covalent-api-sdk-go/utils"
 )
 
 type ApprovalsResponse struct {
